@@ -1,5 +1,5 @@
 name: connected_networking
-description: "A new Flutter plugin project."
+description: "A Flutter plugin to check the connected network type (WiFi, Mobile, None) on Android and iOS devices."
 version: 0.0.1
 homepage: https://github.com/KritishBokde91/connected_networking
 repository: https://github.com/KritishBokde91/connected_networking
